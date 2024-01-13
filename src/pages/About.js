@@ -4,7 +4,7 @@ import {Link} from "react-router-dom"
 export default function About(){
     return(
         <div className="about-container">
-            <img src ={aboutPagePhoto} alt="photo" className="about-page-photo"/>
+            <img src ={aboutPagePhoto} alt="About Page Hero" className="about-page-photo"/>
             <h1 className="about-page-title">Don’t squeeze in a sedan when you could relax in a van.</h1>
             <p className="about-page-text">Our mission is to enliven your road trip with the perfect travel van rental. 
                 Our vans are recertified before each trip to ensure your travel plans can go off without a hitch.
