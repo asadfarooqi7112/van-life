@@ -24,7 +24,7 @@ nav > a{
 }
 .home-container{
   height: 100vh;
-  background-image: url("D:\Programming\React Works\van-life\src\images\background.png");
+  background-image: url("/src/images/background.png");
   background-repeat: no-repeat;
   background-size:cover;
 
